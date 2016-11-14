@@ -1,0 +1,26 @@
+{
+  "name": "gulp-sample",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cached": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-gh-pages": "*",
+    "gulp-imagemin": "*",
+    "gulp-minify-html": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sass-lint": "*",
+    "gulp-size": "*",
+    "gulp-uglify": "*",
+    "imagemin-pngquant": "*",
+    "jquery": "*"
+  }
+}
